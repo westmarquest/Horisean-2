@@ -2,26 +2,40 @@
 
 HTML CSS Git Challenge: Code Refactor
 
-Project Overview
+##Project Overview
 
-This project involves refactoring an existing website to enhance accessibility standards. The goal is to improve the codebase, making it more accessible for users and optimizing it for search engines.
+Horiseon Social Media Services is a sample webpage designed to showcase the services offered by a fictional digital marketing company, Horiseon. The webpage is built using semantic HTML and CSS, focusing on accessibility and maintainability. The layout features a header, main content sections for various services, a sidebar for additional benefits, and a footer.
 
-User Story
 
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
 
-Acceptance Criteria
+## Features
+- Semantic HTML: Improved accessibility and readability of the source code.
+- Responsive Design: Adjusts layout based on the device's screen size.
+- Accessible Navigation: Horizontal navigation bar for easy access to sections.
+- Alt Text for Images: Descriptive alt attributes for images, enhancing screen reader compatibility.
+- Optimized CSS: Reduced redundancy and improved maintainability.
 
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+
+## To View, Visit the Site : https://westmarquest.github.io/Horisean-2/
+
+
+![Image 6-10-24 at 12 35 AM](https://github.com/westmarquest/Horisean-2/assets/153345373/1c20d375-e361-47b6-9ff3-d2abaa0c0ea1)
+
+
+## Elements
+### HTML
+- Uses semantic elements (<header>, <nav>, <main>, <section>, <aside>, <footer>) for improved readability and accessibility.
+- Includes descriptive alt attributes for all images.
+-  (<h1>, <h2>, <h3>) are used in a sequential order for logical content structuring.
+
+### CSS
+- Efficient and Maintainable: Redundant styles are consolidated.
+- Responsive Design: Ensures the layout adjusts properly to different screen sizes.
+- Horizontal Navigation: Styles the navigation bar to display links horizontally.
+
+## Acknowledgements
+- Thanks to the developers and designers who contributed to the project structure and styling guidelines.
+- Image credits to various open-source image providers used in this project.
+
+### Source Code : https://github.com/coding-boot-camp/urban-octo-telegram
+
