@@ -24,10 +24,9 @@ Horiseon Social Media Services is a sample webpage designed to showcase the serv
 
 ## Elements
 ### HTML
-- Uses semantic elements (<header>, <nav>, <main>, <section>, <aside>, <footer>) for improved readability and accessibility.
+- Uses semantic elements for improved readability and accessibility.
 - Includes descriptive alt attributes for all images.
--  (<h1>, <h2>, <h3>) are used in a sequential order for logical content structuring.
-
+  
 ### CSS
 - Efficient and Maintainable: Redundant styles are consolidated.
 - Responsive Design: Ensures the layout adjusts properly to different screen sizes.
